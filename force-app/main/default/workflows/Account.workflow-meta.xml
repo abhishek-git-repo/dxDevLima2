@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workflow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <alerts>
+        <fullName>TestEmailAlert</fullName>
+        <description>TestEmailAlert</description>
+        <protected>false</protected>
+        <recipients>
+            <recipient>test-3wcz77czhoxq@example.com</recipient>
+            <type>user</type>
+        </recipients>
+        <senderType>CurrentUser</senderType>
+        <template>unfiled$public/WorkflowRuleTest</template>
+    </alerts>
     <rules>
         <fullName>WorkflowRuleTest</fullName>
         <actions>
