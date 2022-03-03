@@ -155,7 +155,7 @@
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
     <historyRetentionPolicy n1:nil="true" />
-    <label>rsp_custom_object</label>
+    <label>Replaced By Yml Replacer - Rule test_custom_object</label>
     <nameField>
         <label>rsp_custom_object Name</label>
         <type>Text</type>
