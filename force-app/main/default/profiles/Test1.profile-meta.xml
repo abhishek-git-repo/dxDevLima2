@@ -6,6 +6,21 @@
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
+<<<<<<< HEAD
+=======
+        <apexClass>T1</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>T2</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>T3</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+>>>>>>> feature/US-0000199
         <apexClass>Test1</apexClass>
         <enabled>true</enabled>
     </classAccesses>
@@ -14,8 +29,13 @@
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
+<<<<<<< HEAD
         <apexClass>Test4</apexClass>
         <enabled>true</enabled>
+=======
+        <apexClass>Test5</apexClass>
+        <enabled>false</enabled>
+>>>>>>> feature/US-0000199
     </classAccesses>
     <custom>true</custom>
     <fieldPermissions>
