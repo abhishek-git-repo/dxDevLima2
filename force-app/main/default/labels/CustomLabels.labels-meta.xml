@@ -15,6 +15,13 @@
         <value>STlabel1</value>
     </labels>
     <labels>
+        <fullName>STlabel2</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>STlabel2</shortDescription>
+        <value>STlabel2 update</value>
+    </labels>
+    <labels>
         <fullName>Test</fullName>
         <language>en_US</language>
         <protected>true</protected>
