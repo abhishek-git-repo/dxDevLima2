@@ -144,6 +144,7 @@
     <allowInChatterGroups>false</allowInChatterGroups>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <deploymentStatus>Deployed</deploymentStatus>
+    <description>jghljkglh</description>
     <enableActivities>false</enableActivities>
     <enableBulkApi>true</enableBulkApi>
     <enableFeeds>false</enableFeeds>
@@ -155,12 +156,12 @@
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
     <historyRetentionPolicy n1:nil="true" />
-    <label>rsp_object_auto_resolve Conflict!</label>
+    <label>rsp_object_auto_resolve</label>
     <nameField>
         <label>rsp_object_auto_resolve Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>rsp_object_auto_resolve Conflict!</pluralLabel>
+    <pluralLabel>rsp_object_auto_resolvessssss</pluralLabel>
     <searchLayouts />
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
