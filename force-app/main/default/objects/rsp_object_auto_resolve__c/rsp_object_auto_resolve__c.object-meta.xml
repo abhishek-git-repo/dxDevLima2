@@ -160,7 +160,7 @@
         <label>rsp_object_auto_resolve Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>rsp_object_auto_resolve</pluralLabel>
+    <pluralLabel>rsp_object_auto_resolve Conflict!</pluralLabel>
     <searchLayouts />
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
