@@ -155,7 +155,7 @@
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
     <historyRetentionPolicy n1:nil="true" />
-    <label>rsp_object_auto_resolve</label>
+    <label>rsp_object_auto_resolve Conflict!</label>
     <nameField>
         <label>rsp_object_auto_resolve Name</label>
         <type>Text</type>
