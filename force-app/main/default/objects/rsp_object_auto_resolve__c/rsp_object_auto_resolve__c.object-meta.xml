@@ -161,7 +161,7 @@
         <label>rsp_object_auto_resolve Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>rsp_object_auto_resolve Conflict! inttt</pluralLabel>
+    <pluralLabel>rsp_object_auto_resolve This is a Conflict</pluralLabel>
     <searchLayouts />
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
